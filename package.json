@@ -1,0 +1,15 @@
+{
+  "name": "fastify-aws-sdk",
+  "version": "1.0.0",
+  "description": "Fastify plugin for AWS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wellington Rocha",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1033.0",
+    "fastify-plugin": "^3.0.0"
+  }
+}
